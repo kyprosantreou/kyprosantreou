@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kypros Andreou</h1>
 <h3 align="center">I am a passionate app developer from Cyprus and i am studying computer sciens in Corfu.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="center right" alt="Coding" width="400" src="https://i0.wp.com/www.globalapplicationbrands.com/wp-content/uploads/2019/01/programmer.gif?fit=800%2C600&ssl=1&is-pending-load=1">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyprosantreou" alt="kyprosantreou" /></a> </p>
 

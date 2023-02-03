@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyprosantreou" alt="kyprosantreou" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@andreoukypros" target="blank"><img src="https://img.shields.io/twitter/follow/@andreoukypros?logo=twitter&style=for-the-badge" alt="@andreoukypros" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@andreoukypros" target="blank"><img src="https://img.shields.io/twitter/follow/@andreoukypros?logo=twitter&style=for-the-badge" alt="andreoukypros" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 

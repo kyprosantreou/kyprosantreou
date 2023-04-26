@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyprosantreou" alt="kyprosantreou" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working **on a password management project in python!**
 
 - 📫 How to reach me **kyprosantreou@outlook.com**
 

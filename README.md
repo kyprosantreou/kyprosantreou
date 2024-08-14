@@ -5,7 +5,8 @@
 ## I'm Kypros Andreou, a passionate programmer with a strong focus on Python, C++, C, Linux, and MySQL. I have a keen interest in bioinformatics and enjoy tackling diverse programming challenges.
 ## My projects include:
 
-- Hashimoto Disease Prediction: A web-based AI application designed for predicting Hashimoto's disease.
+- Hashimoto Disease Prediction Program: A web-based AI application designed for predicting Hashimoto's disease.
+- Heart Attack Prediction Program: An AI application designed for predicting heart attack.
 - Voice Assistant: A project aimed at improving interaction through voice commands.
 - Password Manager: A secure tool for managing and storing passwords.
 

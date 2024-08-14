@@ -1,8 +1,17 @@
 ![Profile Image](https://github.com/kyprosantreou/kyprosantreou/blob/main/logo.jpg)
 
-# Hi 👋, I'm Kypros Andreou
+# Hi 👋, 
 
-## I am a passionate programmer from Cyprus and I am studying Computer Science in Corfu.
+## I'm Kypros Andreou, a passionate programmer with a strong focus on Python, C++, C, Linux, and MySQL. I have a keen interest in bioinformatics and enjoy tackling diverse programming challenges.
+## My projects include:
+
+- Hashimoto Disease Prediction: A web-based AI application designed for predicting Hashimoto's disease.
+- Voice Assistant: A project aimed at improving interaction through voice commands.
+- Password Manager: A secure tool for managing and storing passwords.
+
+In addition to these, I’ve worked on various smaller projects, always exploring new technologies and expanding my skill set. I’m here to share my work, collaborate on exciting projects, and continuously learn and grow in the world of programming.
+
+Feel free to check out my repositories and connect with me if you’re interested in discussing any of these topics or potential collaborations!
 
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.globalapplicationbrands.com/wp-content/uploads/2019/01/programmer.gif?fit=800%2C600&ssl=1&is-pending-load=1">
 

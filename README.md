@@ -39,4 +39,4 @@ Feel free to check out my repositories and connect with me if you’re intereste
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyprosantreou&show_icons=true&locale=en)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyprosantreou)
+

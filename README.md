@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/kyprosantreou/kyprosantreou/blob/main/logo.jpg)
+![Profile Image](https://github.com/kyprosantreou/kyprosantreou/blob/main/logo.png)
 
 # Hi 👋, 
 

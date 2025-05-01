@@ -2,9 +2,9 @@
 
 # Hi 👋, 
 
-## I'm Kypros Andreou, a passionate programmer with a strong focus on Python, C++, C, Linux, and MySQL. I have a keen interest in bioinformatics and enjoy tackling diverse programming challenges.
+## I'm Kypros Andreou, a passionate programmer with a strong interest in bioinformatics, data science, and the application of technology in medical research. I enjoy exploring complex challenges, building intelligent systems, and continuously expanding my knowledge across diverse areas of computer science.
 ## My projects include:
-
+- Brain Tumor Detection Program: A web-based AI application utilizing MRI scans to predict the presence of brain tumors. 
 - Hashimoto Disease Prediction Program: A web-based AI application designed for predicting Hashimoto's disease.
 - Heart Attack Prediction Program: An AI application designed for predicting heart attack.
 - Voice Assistant: A project aimed at improving interaction through voice commands.
@@ -18,25 +18,35 @@ Feel free to check out my repositories and connect with me if you’re intereste
 
 - 📫 How to reach me: kyprosantreou@outlook.com
 
-### Connect with me:
-
-<a href="https://twitter.com/antreoukypros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antreoukypros" height="30" width="40" /></a>
+## 💼 Connect with me:
 <a href="https://www.linkedin.com/in/kypros-andreou-a8403623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kypros andreou" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009714181578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kypros andreou" height="30" width="40" /></a>
 <a href="https://instagram.com/_kypros.andreou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kypros.antreou_" height="30" width="40" /></a>
+<a href="https://twitter.com/antreoukypros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antreoukypros" height="30" width="40" /></a>
+<br></br>
 
-### Languages and Tools:
+## 💻 My Tech Stack
+### 🛠️ Languages
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,mysql" />
 </p>
 
-### GitHub Stats:
+### ⚙️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,flask,tensorflow,sklearn,git,github,raspberrypi"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyprosantreou&show_icons=true&locale=en)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2383c3cf?style=flat)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-%230b5394?style=flat)
+
+
+
+## 📊 GitHub Stats
+
+![Kypros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyprosantreou&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kyprosantreou)
 
 

@@ -39,8 +39,10 @@ Feel free to check out my repositories and connect with me if you’re intereste
 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2383c3cf?style=flat)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-%230b5394?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
+
 
 
 

@@ -47,7 +47,4 @@ Feel free to check out my repositories and connect with me if you’re intereste
 
 
 
-## 📊 GitHub Stats
-
-![Kypros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyprosantreou&show_icons=true)
 
